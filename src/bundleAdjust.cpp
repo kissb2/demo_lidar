@@ -9,6 +9,8 @@
 #include <tf/transform_listener.h>
 #include <tf/transform_broadcaster.h>
 
+#include <pcl_conversions/pcl_conversions.h>
+
 #include "isam/isam.h"
 #include "isam/slam_depthmono.h"
 #include "isam/robust.h"

@@ -10,6 +10,8 @@
 #include <tf/transform_listener.h>
 #include <tf/transform_broadcaster.h>
 
+#include <pcl_conversions/pcl_conversions.h>
+
 #include "cameraParameters.h"
 #include "pointDefinition.h"
 

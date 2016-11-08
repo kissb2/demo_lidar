@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ros/ros.h>
+#include <pcl_conversions/pcl_conversions.h>
 
 #include "cameraParameters.h"
 #include "pointDefinition.h"
